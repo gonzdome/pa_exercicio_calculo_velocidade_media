@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pa_exercicio_calculo_velocidade_media", "pa_exercicio_calculo_velocidade_media\pa_exercicio_calculo_velocidade_media.csproj", "{3CFAA17A-132F-4D8F-9458-6BB7BF49D30D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CFAA17A-132F-4D8F-9458-6BB7BF49D30D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFAA17A-132F-4D8F-9458-6BB7BF49D30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFAA17A-132F-4D8F-9458-6BB7BF49D30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFAA17A-132F-4D8F-9458-6BB7BF49D30D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D9039E4-9626-4238-AA16-C405043CCC28}
+	EndGlobalSection
+EndGlobal
